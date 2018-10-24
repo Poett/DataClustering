@@ -1,0 +1,1 @@
+	ionosphereIndex:	0.27SSE:	2419.364807189692

@@ -1,0 +1,1 @@
+	iris_bezdekIndex:	0.83SSE:	78.851441426146

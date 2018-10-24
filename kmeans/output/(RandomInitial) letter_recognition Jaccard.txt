@@ -1,0 +1,1 @@
+	letter_recognitionIndex:	0.93SSE:	634106.3426010289
